@@ -1,3 +1,11 @@
+## [1.25.1](https://github.com/Rubicones/hw-infra/compare/v1.25.0...v1.25.1) (2023-07-18)
+
+
+### Bug Fixes
+
+* workflow test final ([f9a0c69](https://github.com/Rubicones/hw-infra/commit/f9a0c69afe0a1cd0e0e26e51202363406d536a62))
+* workflow test final ([7310367](https://github.com/Rubicones/hw-infra/commit/73103672c4ae4e674e786c5439eb56bbde8a8579))
+
 # [1.25.0](https://github.com/Rubicones/hw-infra/compare/v1.24.0...v1.25.0) (2023-07-18)
 
 
